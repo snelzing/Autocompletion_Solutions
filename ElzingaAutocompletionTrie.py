@@ -99,9 +99,8 @@ class FormTrie():
         return 1
 
 
-keys = ["Aardvark","A", "aarmory", "antler", "zoology", "orca", "orcas"]
+keys = ["Aardvark", "A", "aarmory", "antler", "zoology", "orca", "orcas"]
 prefix = "zz"
-status = ["Not found", "Found"]
 
 t = FormTrie()
 
